@@ -5,6 +5,8 @@
 }
 
 .show-class{
-    background-color: blueviolet;
+    background-color: rgb(62, 94, 133);
     padding: 10px;
+    border: solid 2px black;
+   
 } 

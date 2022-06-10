@@ -30,6 +30,7 @@ showButton.addEventListener('click', ()=> {
     lista.innerHTML = content
 })
 
+
 //Añadir funcionalidad para ocultar personajes
 
 hideButton.addEventListener('click', ()=> {
